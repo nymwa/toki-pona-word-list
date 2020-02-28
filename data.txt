@@ -1,0 +1,141 @@
+a	あ！,あー ,あはは！ 
+akesi	可愛くない動物 
+ala	否定,０,いいえ 
+alasa	集める,狩る 
+ale/ali	全て 
+anpa	下,底(cf.sewi) 
+ante	違い,違う,変える(cf.pona,awen),あるいは 
+anu	または,あるいは 
+apeja	†恥,罪 
+awen	待つ,保つ,残る,不変(cf.ante) 
+e	目的語の分離 
+en	列挙の「と」 
+esun	売る,買う,取引する,市場 
+ijo	もの,こと,物体 
+ike	悪い,悪,悲しいかな 
+iki	†彼,彼女,それ(cf.ona)
+ilo	道具,装置,機械 
+insa	間,中間 
+jaki	汚れ,ゴミ 
+jan	人,人間らしい 
+jelo	黄色,萌黄色 
+jo	持つ,含む 
+kala	魚,海の生き物 
+kalama	音,音を出す 
+kama	出来事,来る,なる,未来 
+kan	†一緒に,ともに(cf.poka) 
+kapa	†膨れた形のもの(山，ボタンなど)(cf.nena)
+kapesi	†茶色，灰色
+kasi	植物,葉,木 
+ken	できる,許す,可能性 
+kepeken	使う,用いて 
+kijetesantakalu	アライグマ 
+kili	野菜,果実,きのこ 
+kin	もまた,さらに,やはり 
+kipisi	切る 
+kiwen	石,固い,鉱物,個体の 
+ko	半個体,粉状糊状のもの 
+kon	空気,風,匂い,精神,気体の 
+kule	色,塗る,いろとりどり 
+kulupu	グループ,コミュニティ,共有の 
+kute	聞く,聴く,聴覚的に(cf.lukin) 
+la	副詞句の分離 
+lape	寝る,休む 
+laso	青,青緑 
+lawa	頭,思考,率いる,導く 
+leko	四角,ブロック 
+len	布,服,着る 
+lete	寒さ,冷たい,凍る,調理されていない 
+li	動詞句の分離 
+lili	小さい , 少ない , 若い , 脆い , 減らす(cf.mute) 
+linja	紐状のもの 
+lipu	薄く平で折り曲げられるもの , 紙 , ウェブサイト 
+loje	赤 
+lon	存在,(場所)に，で 
+luka	手,腕,５ 
+lukin	見る , 読む , 注目する , 視覚的に , みため(cf.kute) 
+lupa	穴状のもの , 出入り口 , ドア , 窓 
+ma	場所 , 土地 , 国 , 領域 
+majuna	†古い cf.sin ala, pini 
+mama	親 
+mani	お金 , 富 
+meli	女 
+mi	私 , 私の 
+mije	男 
+moku	食べ物 , 食事 , 食べる , 飲む , 消費する 
+moli	死 , 死ぬ , 殺す 
+monsi	後ろ , 背中(cf.sinpin) 
+monsuta	怪物 , 恐怖 , 恐れる 
+mu	にゃーん , 動物の鳴き声 
+mulapisu	ピザ
+mun	月(cf.suno) 
+musi	遊び , 遊ぶ , 楽しむ 
+mute	量 , 多い , とても , 豊富な , 増やす(cf.lili) 
+namako	余分 , 不要(cf.wile) , 装飾 , スパイス , 塩 
+nanpa	数 , 番号 , 番目 
+nasa	狂った , 酔った , 変わった 
+nasin	道 , 方法 , 習慣 
+nena	山 , 鼻 , 出っ張り , ボタン 
+ni	この , その 
+nimi	名前 , 単語 
+noka	足 , 脚 
+o	ねえ , おい , 呼格の分離 , 命令法 
+oko	目 ,  
+olin	愛 , 愛する 
+ona	彼 , 彼女 , それ 
+open	開く , 起動 
+pakala	失敗 , 壊す , 傷つける , なんてこった 
+pake	止める , 阻止する 
+pali	活動 , 計画 , 仕事 , 作る , 建てる , 働く , 機能する 
+palisa	棒状のもの 
+pan	主食 , パン , ご飯 
+pana	与える , 送る , 交換 
+pasila	†良い，簡単(cf.pona)
+pata	†兄弟 cf.jan sama 
+pi	名詞句に属す「の」 
+pilin	気持ち , 感情 , 心臓 , 感銘 , 感じる , 考える 
+pimeja	黒 , 影 , 暗い(cf.walo) 
+pini	終わり , 端 , 終わる(cf.open) , 過去(cf.kama,sin) 
+pipi	虫 , 昆虫 , 蜘蛛 
+po	†４
+poka	側面 , 隣(cf.weka) , 次 , 腰 , 一緒に , ともに 
+poki	入れ物 , 容器 , 箱 , コップ 
+pona	よい , 簡単 , 単純 , 直す , いいね！ 
+powe	†架空の，偽の，騙す
+pu	本(主に公式Toki Pona本) 
+sama	同じ , 等しい , 似た , 〜のような 
+seli	火 , 暖かい , 調理する 
+selo	外側 , 表面 , 皮(cf.insa) 
+seme	何 , どれ , 誰 , 疑問代名詞 
+sewi	高さ , 上(cf.anpa) , 信仰心のある , 礼儀正しい 
+sijelo	体 , 体調 
+sike	円 , ボール , 車輪 , 回る , 丸い 
+sin	新しい , 新鮮 , 修復(cf.pona) , 他の , もっと(cf.mute) 
+sina	あなた , あなたの 
+sinpin	垂直面(cf.supa) , 前 , 胸 , 胴(cf.monsi) , 壁 
+sitelen	絵 , イメージ , 描く , 書く , デザインする 
+sona	知識 , 知性 , 理解 , 知る , わかる , 学ぶ 
+soweli	かわいい動物 , ≡╹ω╹≡ 
+suli	大きい , 大きさ , 高い , 大人 , 大切 
+suno	太陽(cf.mun) , 光 
+supa	水平面(cf.sinpin) , 台 , 机 , 椅子 
+suwi	甘い物 , 甘い 
+tan	起源 , 原因 , 〜から , 〜のために 
+taso	ただ , のみ , しかし 
+tawa	行く , 動き , 動かす , 〜へと , 〜にとって 
+telo	水 , 液体 , 飲み物 , 濡らす , 洗う 
+tenpo	時 , 時間 , 瞬間 , 状況 
+toki	言語 , 会話 , 話す , こんにちは 
+tomo	家 , 建物 
+tu	２ , ペア , 分ける , 二倍にする 
+tuli	†３
+unpa	性 , 性交 
+uta	口 , 胃 
+utala	戦い , 競争 , 不調和(cf.olin) , 攻撃 
+walo	白 , 明るい(cf.pimeja) 
+wan	１ , 要素 , まとめる , あわせる 
+waso	鳥 
+wawa	力 , 強い , 速い , 声が大きい 
+weka	遠い , 不在(cf.lon) , 捨てる , 外す 
+wile	ほしい , したい , 必要(cf.namako) , 希望 
+yupekosi	過去の創作を台無しにする
